@@ -1,0 +1,170 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    margin-top: 20px;
+}
+
+header ul {
+    display: flex;
+    gap: 24px;
+    margin-left: 400px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.d1 {
+    margin-top: 100px;
+    background-image: url(img/IMAGE\ \(1\).svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 565px;
+}
+
+.d1 {
+    text-align: center;
+}
+
+.h11 {
+    margin-top: 70px;
+}
+
+.d2 {
+    margin-top: 70px;
+    background-image: url(img/IMAGE\ \(3\).svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 669px;
+}
+
+
+
+.dm1 {
+    position: absolute;
+    left: 995px;
+    top: 1050px;
+    width: 400px;
+    height: 280px;
+    background-color: white;
+}
+
+.card {
+    width: 351px;
+}   
+
+.d3 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.b1 button {
+    margin-left: 580px; 
+    margin-top: 100px;
+    width: 115px;
+height: 48px;
+top: 2578px;
+left: 543px;
+gap: 0px;
+opacity: 0px;
+background-color: rgba(150, 134, 118, 1);
+}
+
+.r1 {
+    padding: 30px;
+    width: 450px;
+background-color: rgb(218, 215, 211);
+}
+
+.l1 {
+    width: 250px;
+}
+
+.d4 {
+    align-items: center;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.abs1 img {
+    height: 550px;
+    position: absolute;
+    left: 550px;
+    top: 2550px;
+}
+
+.d5 {
+    background-color: rgba(210, 177, 120, 1);
+    padding: 40px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.p p {
+    color: white;   
+}
+
+.d6 {
+    margin-top: 50px;
+    background-image: url(img/IMAGE\ \(5\).png);
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1455px;
+height: 555px;
+top: 4581px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.d6 .container {
+    text-align: center;
+}
+
+.d6 button {
+    margin-top: 50px;
+    width: 115px;
+height: 48px;
+top: 2578px;
+left: 543px;
+gap: 0px;
+opacity: 0px;
+background-color: rgba(150, 134, 118, 1);
+}
+
+footer {
+    background-color: rgba(222, 219, 215, 1);
+}
+
+footer .container {
+    text-align: center;
+}
+
+.d7 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.r2 ul {
+display: flex;
+gap: 44px;
+}
+
+.logo {
+    display: flex;
+    gap: 20px;
+}
